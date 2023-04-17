@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Roll/shaking1.png</file>
+        <file>Roll/shaking2.png</file>
+        <file>Roll/shaking3.png</file>
+        <file>Roll/shaking4.png</file>
+        <file>Roll/shaking5.png</file>
+        <file>Roll/shaking6.png</file>
+        <file>Roll/shaking7.png</file>
+        <file>Roll/shaking8.png</file>
+        <file>Roll/shaking9.png</file>
+        <file>Roll/shaking10.png</file>
+        <file>Roll/shaking11.png</file>
+        <file>Roll/shaking12.png</file>
+    </qresource>
+</RCC>

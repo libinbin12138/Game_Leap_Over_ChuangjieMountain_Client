@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Role/Role_1.png</file>
+        <file>Role/Role_2.png</file>
+        <file>Role/Role_3.png</file>
+        <file>Role/Role_4.png</file>
+        <file>Role/Role_5.png</file>
+        <file>Role/Role_6.png</file>
+        <file>Role/Role_7.png</file>
+        <file>Role/Role_8.png</file>
+        <file>Role/Role_9.png</file>
+        <file>Role/Role_10.png</file>
+        <file>Role/Role_11.png</file>
+        <file>Role/Role_12.png</file>
+    </qresource>
+</RCC>

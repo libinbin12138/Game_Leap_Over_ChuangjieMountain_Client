@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package dafuwenprotobuf;
+
+message Protobuf_RsaPubKey{
+  int32 flag=1;
+  int32 EncontentSize=2;
+  bytes PubKey = 3;
+  bytes Encontent=4;
+  bytes Hashcontent=5;
+}
+
+message Room_Info{
+  int32 Room_ID=1;
+bytes Room_Name=2;
+bytes Room_Description=3;
+int32 Room_Maxnum=4;
+int32 Room_Flag=5;
+bytes Room_Pwd=6;
+bytes Room_AesKey=7;
+int32 Player_Order=8;
+bytes Player_Name=9;
+int32 Player_TouxiangFlag=10;
+int32 cfd=11;
+bytes IP=12;
+}
